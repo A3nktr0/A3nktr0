@@ -2,7 +2,7 @@
 
 I'm a programmer student at Zone01. I Love coding, solving problems, and learning new things.
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on
 
 A portfolio with a wide range of different projects in order to progress and expand my capacity for action.
 
