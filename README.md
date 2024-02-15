@@ -1,6 +1,6 @@
 ### Hi there, I'm A3nktr0 👋
 
-I'm a programmer student at Zone01 Normandy. I Love coding, solving problems, and learning new things.
+I'm a programmer student at Zone01. I Love coding, solving problems, and learning new things.
 
 ## 🔭 I’m currently working on ...
 
