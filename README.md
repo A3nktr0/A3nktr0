@@ -6,7 +6,7 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 
 - A portfolio with a wide range of different projects in order to progress and expand my capacity for action.
 
-## I'm currently learning 📚
+## 📚 I'm currently learning 
 
 - I'm learning **C, C++, C#, Python, JavaScript, Go, Rust, Assembly, Lisp, Ruby, PHP, and SQL** to expand my knowledge of different programming paradigms, syntaxes, and data manipulation.
 - I'm exploring various web development frameworks and libraries such as **React, Vue, Node, Ruby on Rails, Laravel, and Django** to create dynamic and interactive web applications.
