@@ -11,13 +11,16 @@ A portfolio with a wide range of different projects in order to progress and exp
 - I'm learning **C, C++, C#, Python, JavaScript, Go, Rust, Assembly, Lisp, Ruby, PHP, and SQL** to expand my knowledge of different programming paradigms, syntaxes, and data manipulation.
 - I'm exploring various web development frameworks and libraries such as **React, Vue, Node, Ruby on Rails, Laravel, and Django** to create dynamic and interactive web applications.
 - I'm also interested in learning more about **security and sys admin skills** to improve the performance, reliability, and security of my projects.
+- I’m fascinated by robotics and artificial intelligence and I’m using ROS (Robot Operating System) to develop and simulate robotic applications.
+- I’m an avid maker and hacker  and I’m sharing my projects on hackaday.io, 
 - Some of the resources that I'm using or creating to learn new things are:
-  - [nand2tetris](https://getcomposer.org/doc/00-intro.md): A course that teaches how to build a modern computer system from first principles.
-  - [Project Euler](https://github.com/sar5430/crackmes.one): A series of challenging mathematical and programming problems that require creative thinking and optimization.
-  - [OZINT](https://www.youtube.com/watch?v=sVyQkOWz-1k): A platform that provides open source intelligence tools and resources for cyber security professionals.
-  - [rootme](https://www.youtube.com/watch?v=fTGTnrgjuGA): A website that offers realistic hacking challenges and training materials for ethical hackers.
-  - [hackthebox](https://getcomposer.org/installer): An online platform that allows users to test their penetration testing skills and exchange ideas with other members of the community.
-  - [crackmes.one](https://github.com/django/django.git): A website that hosts a large collection of crackmes, which are small programs that challenge reverse engineering skills.
+  - [nand2tetris](https://www.nand2tetris.org/): A course that teaches how to build a modern computer system from first principles.
+  - [Project Euler](https://projecteuler.net/): A series of challenging mathematical and programming problems that require creative thinking and optimization.
+  - [OZINT](https://ozint.eu/): A platform that provides open source intelligence tools and resources for cyber security professionals.
+  - [rootme](https://www.root-me.org/): A website that offers realistic hacking challenges and training materials for ethical hackers.
+  - [hackthebox](https://www.hackthebox.com/): An online platform that allows users to test their penetration testing skills and exchange ideas with other members of the community.
+  - [crackmes.one](https://crackmes.one/): A website that hosts a large collection of crackmes, which are small programs that challenge reverse engineering skills.
+  - [hackaday](https://hackaday.io) A platform for hardware enthusiasts and innovators.
 
 
 ## 📫 How to reach me:
