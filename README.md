@@ -28,7 +28,7 @@ A portfolio with a wide range of different projects in order to progress and exp
 - Email: a3nktr0@protonmail.com
 - LinkedIn: ...
 
-- ## 📊 My GitHub stats
+## 📊 My GitHub stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=a3nktr0&count_private=true&theme=tokyonight&showicons=true)]()
 
