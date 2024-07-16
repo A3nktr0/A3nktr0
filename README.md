@@ -30,5 +30,5 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 
 ## 📊 My GitHub stats
 
-[![Top Langs](https://github-readme-stats-gold-xi-34.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=20&theme=monokai&layout=donut)]()
+[![Top Langs](https://github-readme-stats-gold-xi-34.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=20&theme=monokai&layout=donut-vertical)]()
 
