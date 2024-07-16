@@ -31,8 +31,8 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 ## 📊 My GitHub stats
 
 <a href="https://github.com/a3nktr0/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-gold-xi-34.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=10&theme=monokai&layout=donut" />
+  <img height=300 align="center" src="https://github-readme-stats-gold-xi-34.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=10&theme=monokai&layout=donut" />
 </a>
 <a href="https://github.com/a3nktr0/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-gold-xi-34.vercel.app/api?username=a3nktr0&show_icons=true&theme=monokai" />
+  <img height=300 align="center" src="https://github-readme-stats-gold-xi-34.vercel.app/api?username=a3nktr0&show_icons=true&theme=monokai" />
 </a>
