@@ -32,4 +32,4 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=a3nktr0&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a3nktr0&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a3nktr0&langs_count=8&count_private=true&theme=tokyonight)]()
