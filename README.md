@@ -26,7 +26,7 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 ## 📫 How to reach me:
 
 - Email: a3nktr0@protonmail.com
-- LinkedIn: ...
+- [LinkedIn](https://www.linkedin.com/in/quentin-de-looze-3093802b6?)
 
 ## 📊 My GitHub stats
 
