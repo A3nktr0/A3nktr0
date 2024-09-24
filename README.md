@@ -13,7 +13,7 @@ I'm a programmer student at Zone01. I Love coding, solving problems, and learnin
 - I'm also interested in learning more about **security and sys admin skills** to improve the performance, reliability, and security of my projects.
 - I’m fascinated by robotics and artificial intelligence and I’m using ROS (Robot Operating System) to develop and simulate robotic applications.
   
-- Some of the resources that I'm using or creating to learn new things are:
+- Some of the resources that I'm using to learn new things are:
   - [nand2tetris](https://www.nand2tetris.org/): A course that teaches how to build a modern computer system from first principles.
   - [Project Euler](https://projecteuler.net/): A series of challenging mathematical and programming problems that require creative thinking and optimization.
   - [OZINT](https://ozint.eu/): A platform that provides open source intelligence tools and resources for cyber security professionals.
