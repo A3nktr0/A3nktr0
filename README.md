@@ -41,8 +41,8 @@ Beyond cybersecurity and development, I explore robotics and automation, integra
 
 ## 📊 GitHub Stat
 <a href="https://github.com/a3nktr0/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dark&hide_progress=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3nktr0&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dark&hide_progress=true" />
 </a>
 <a href="https://github.com/a3nktr0/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=a3nktr0&show_icons=true&theme=dark" />
+  <img height=1800 align="center" src="https://github-readme-stats.vercel.app/api?username=a3nktr0&show_icons=true&theme=dark" />
 </a>
