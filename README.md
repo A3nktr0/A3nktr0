@@ -14,7 +14,7 @@ I enjoy working across multiple domains, combining problem-solving with adaptabi
 #### 🔹 Programming & Software Development
 Balancing low-level efficiency (C, C++, Rust) with high-level flexibility (Python, JavaScript, TypeScript), I choose the right tools for each challenge—whether optimizing system performance, developing scalable applications, or refining security implementations.
 
-####🔹 Full-Stack Development & Architecture
+#### 🔹 Full-Stack Development & Architecture
 Secure and scalable application design is a priority. I work with React, Vue, and Node.js, ensuring robust API security, database management, and performance optimization while maintaining development efficiency.
 
 #### 🔹 Cybersecurity & Penetration Testing
