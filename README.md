@@ -23,6 +23,9 @@ Security isn't just about tools—it’s about strategy and execution. I focus o
 #### 🔹 System & Network Security
 I approach infrastructure with a security-first mindset, strengthening systems through firewall configurations, authentication mechanisms, and proactive threat mitigation to ensure stability and resilience.
 
+#### 🔹 Cyber Threat Intelligence & Security Automation
+Cybersecurity requires a proactive intelligence-driven approach. I integrate threat intelligence into workflows, analyzing attack patterns, automating detection, and refining defensive strategies. This strengthens situational awareness, streamlines detection, and reinforces resilience against evolving threats.
+
 #### 🔹 DevOps & Infrastructure
 I integrate streamlined workflows, automation, and deployment strategies to improve efficiency:
 - Implementing CI/CD pipelines for optimized software delivery.
@@ -32,9 +35,6 @@ I integrate streamlined workflows, automation, and deployment strategies to impr
 
 #### 🔹 AI & Robotics
 Beyond cybersecurity and development, I explore robotics and automation, integrating ROS (Robot Operating System) for intelligent control systems and real-time sensor fusion. My AI work extends into automation, including machine learning-driven security monitoring, predictive analytics, and adaptive response systems to enhance digital and physical security implementations.
-
-#### 🔹 Cyber Threat Intelligence & Security Automation
-Cybersecurity requires a proactive intelligence-driven approach. I integrate threat intelligence into workflows, analyzing attack patterns, automating detection, and refining defensive strategies. This strengthens situational awareness, streamlines detection, and reinforces resilience against evolving threats.
 
 ## 📬 Contact
 📧 Email: a3nktr0@proton.me
