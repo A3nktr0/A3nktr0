@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub – A3nktr0
-I'm a cybersecurity specialist, pentester, and full-stack software engineer with a passion for developing high-performance solutions and tackling complex security challenges. My expertise spans software development, offensive security, and infrastructure automation, ensuring a security-first approach to everything I build.
+I'm a cybersecurity enthusiast, pentester, and full-stack software engineer with a passion for developing high-performance solutions and tackling complex security challenges. My experience spans software development, offensive security, and infrastructure automation, ensuring a security-first approach to everything I build.
 ## 🔥 What I Do
 - Cybersecurity & Penetration Testing – Ethical hacking, vulnerability research, and exploit development to strengthen digital security.
 - Software Engineering – Crafting efficient, scalable applications with a focus on reliability and performance.
