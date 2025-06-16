@@ -6,7 +6,6 @@ I'm a cybersecurity enthusiast, pentester, and full-stack software engineer with
 - Full-Stack Development – Developing dynamic, secure web applications using modern frameworks and industry best practices.
 - System & Network Security – Optimizing infrastructure for security, performance, and resilience.
 - DevOps & Infrastructure – Enhancing workflows, deployments, and scalability through automation and continuous integration.
-- AI & Robotics – Integrating ROS (Robot Operating System) for autonomous systems and AI-powered automation.
 
 ## 📚 Technical Proficiency
 I enjoy working across multiple domains, combining problem-solving with adaptability and continuous learning.
@@ -33,8 +32,6 @@ I integrate streamlined workflows, automation, and deployment strategies to impr
 - Managing cloud infrastructure with automated provisioning and security enforcement.
 - Monitoring system performance to ensure reliability and uptime.
 
-### 🔹 AI & Robotics
-Beyond cybersecurity and development, I explore robotics and automation, integrating ROS (Robot Operating System) for intelligent control systems and real-time sensor fusion. My AI work extends into automation, including machine learning-driven security monitoring, predictive analytics, and adaptive response systems to enhance digital and physical security implementations.
 
 ## 📬 Contact
 📧 Email: a3nktr0@proton.me
